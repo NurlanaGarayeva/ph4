@@ -18,7 +18,7 @@
 # #     def bu_nedir(self):
 # #         print("Bu atdır")   
         
-# #     def herketi(self):
+# #     def hereketi(self):
 # #         print("L herfi seklinde hereket edir")   
         
         
@@ -30,7 +30,7 @@
 # #     def bu_nedir(self):
 # #         print("Bu fildir")   
         
-# #     def herketi(self):
+# #     def hereketi(self):
 # #         print("Yanliz diaqonal hereket edir")          
         
         
@@ -42,7 +42,7 @@
 # #     def bu_nedir(self):
 # #         print("Bu topdur")   
         
-# #     def herketi(self):
+# #     def hereketi(self):
 # #         print("Duz xett uzerinde hereket edir") 
         
         
@@ -79,7 +79,7 @@ class At(Sahmat):
     def bu_nedir(self):
         print("Bu atdır")   
         
-    def herketi(self):
+    def hereketi(self):
         print("L herfi seklinde hereket edir")   
         
         
@@ -91,7 +91,7 @@ class Fil(Sahmat):
     def bu_nedir(self):
         print("Bu fildir")   
         
-    def herketi(self):
+    def hereketi(self):
         print("Yanliz diaqonal hereket edir")          
         
         
@@ -103,7 +103,7 @@ class Top(Sahmat):
     def bu_nedir(self):
         print("Bu topdur")   
         
-    def herketi(self):
+    def hereketi(self):
         print("Duz xett uzerinde hereket edir") 
         
         
